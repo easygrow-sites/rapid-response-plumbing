@@ -1,0 +1,64 @@
+{
+  "services": [
+    {
+      "name": "Emergency Plumbing",
+      "slug": "emergency-plumbing",
+      "description": "24/7 emergency plumbing services for burst pipes, severe leaks, blocked drains, and urgent repairs. Fast response times with experienced plumbers available around the clock."
+    },
+    {
+      "name": "Blocked Drains",
+      "slug": "blocked-drains",
+      "description": "Professional drain cleaning and unblocking services using high-pressure water jetting and CCTV inspection technology to clear even the toughest blockages."
+    },
+    {
+      "name": "Hot Water Systems",
+      "slug": "hot-water-systems",
+      "description": "Installation, repair, and replacement of all types of hot water systems including electric, gas, solar, and heat pump units from leading brands."
+    },
+    {
+      "name": "Leak Detection",
+      "slug": "leak-detection",
+      "description": "Advanced leak detection services using thermal imaging and acoustic equipment to locate hidden leaks in walls, floors, and underground pipes."
+    },
+    {
+      "name": "Gas Fitting",
+      "slug": "gas-fitting",
+      "description": "Licensed gas fitting services for installation, repairs, and safety inspections of gas appliances, heaters, cooktops, and gas lines."
+    },
+    {
+      "name": "Bathroom Renovations",
+      "slug": "bathroom-renovations",
+      "description": "Complete bathroom renovation services including design, plumbing installation, fixtures, and finishing touches for modern, functional bathrooms."
+    },
+    {
+      "name": "Toilet Repairs",
+      "slug": "toilet-repairs",
+      "description": "Expert toilet repair and replacement services for running toilets, leaks, blockages, and faulty cisterns with same-day service available."
+    },
+    {
+      "name": "Tap Installation",
+      "slug": "tap-installation",
+      "description": "Professional tap and mixer installation, repair, and replacement services for kitchens, bathrooms, and laundries with quality fixtures."
+    },
+    {
+      "name": "Pipe Relining",
+      "slug": "pipe-relining",
+      "description": "Trenchless pipe relining technology to repair damaged pipes without excavation, saving time and money while providing long-lasting results."
+    },
+    {
+      "name": "Stormwater Drainage",
+      "slug": "stormwater-drainage",
+      "description": "Installation and maintenance of stormwater drainage systems to prevent flooding and water damage to your property."
+    },
+    {
+      "name": "Kitchen Plumbing",
+      "slug": "kitchen-plumbing",
+      "description": "Comprehensive kitchen plumbing services including sink installation, dishwasher connections, garbage disposal units, and water filter systems."
+    },
+    {
+      "name": "Roof Plumbing",
+      "slug": "roof-plumbing",
+      "description": "Roof plumbing services for gutters, downpipes, roof leaks, and drainage to protect your home from water damage."
+    }
+  ]
+}
